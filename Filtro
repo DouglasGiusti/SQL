@@ -1,0 +1,4 @@
+SELECT *
+FROM population
+WHERE country > 200000000
+limit 10;
